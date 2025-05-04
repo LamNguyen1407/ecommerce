@@ -1,0 +1,2 @@
+FE:
+1. icon: npm install react-icons --save
